@@ -1,0 +1,304 @@
+Country,Year,popsize,cases,incid,peak,peak_ever,Province,DataType
+Anguilla,2015,14909,0,0,2015,2015.6,None,Not analysed
+Anguilla,2016,14909,35,234.757529,2015.6,2015.6,None,Not analysed
+Anguilla,2017,14909,11,73.78093769,2015,2015.9,None,Not analysed
+Antigua.Barbuda,2015,102012,0,0,2015,2016.69,None,Confirmed and suspected
+Antigua.Barbuda,2016,102012,478,468.5723248,2015.69,2016.69,None,Confirmed and suspected
+Antigua.Barbuda,2017,102012,0,0,2015,2016.69,None,Confirmed and suspected
+Argentina,2015,44271041,0,0,2015,2017.21,None,Confirmed and suspected
+Argentina,2016,44271041,61,0.137787589,2015.35,2017.21,None,Confirmed and suspected
+Argentina,2017,44271041,785,1.773168153,2015.21,2017.21,None,Confirmed and suspected
+Aruba,2015,105264,0,0,2015,2017.1,None,Confirmed
+Aruba,2016,105264,416,395.1968384,2015.13,2017.1,None,Confirmed
+Aruba,2017,105264,645,612.745098,2015.1,2017.1,None,Confirmed
+Bahamas,2015,395361,0,0,2015,2016.67,None,Confirmed and suspected
+Bahamas,2016,395361,465,117.6140287,2015.67,2016.67,None,Confirmed and suspected
+Bahamas,2017,395361,0,0,2015,2016.67,None,Confirmed and suspected
+Barbados,2015,285719,0,0,2015,2016.08,None,Confirmed and suspected
+Barbados,2016,285719,762,266.6955995,2015.08,2016.08,None,Confirmed and suspected
+Barbados,2017,285719,10,3.499942251,2015,2016.08,None,Confirmed and suspected
+Belize,2015,374681,0,0,2015,2017.12,None,Confirmed and suspected
+Belize,2016,374681,887,236.7347157,2015.6,2017.12,None,Confirmed and suspected
+Belize,2017,374681,511,136.3826829,2015.12,2017.12,None,Confirmed and suspected
+Bolivia,2015,11051600,0,0,2015,2017.15,None,Confirmed and suspected
+Bolivia,2016,11051600,641,5.800065149,2015.27,2017.15,None,Confirmed and suspected
+Bolivia,2017,11051600,1114,10.07998842,2015.15,2017.15,None,Confirmed and suspected
+British.Virgin.Islands,2015,31196,0,0,2015,2016.67,None,Not analysed
+British.Virgin.Islands,2016,31196,89,285.2929863,2015.67,2016.67,None,Not analysed
+British.Virgin.Islands,2017,31196,0,0,2015,2016.67,None,Not analysed
+Cayman.Islands,2015,61559,0,0,2015,2016.67,None,Not analysed
+Cayman.Islands,2016,61559,244,396.3677123,2015.67,2016.67,None,Not analysed
+Cayman.Islands,2017,61559,12,19.49349405,2015.29,2016.67,None,Not analysed
+Colombia,2015,49065615,0,0,2015,2016,None,Confirmed and suspected
+Colombia,2016,49065615,98891,201.5484775,2015,2016,None,Confirmed and suspected
+Colombia,2017,49065615,1216,2.478313988,2015.08,2016,None,Confirmed and suspected
+Costa.Rica,2015,4905769,0,0,2015,2016.67,None,Confirmed and suspected
+Costa.Rica,2016,4905769,7036,143.4229781,2015.67,2016.67,None,Confirmed and suspected
+Costa.Rica,2017,4905769,870,17.73422271,2015,2016.67,None,Confirmed and suspected
+Cuba,2015,11484636,0,0,2015,2015.56,None,Confirmed
+Cuba,2016,11484636,0,0,2015,2015.56,None,Confirmed
+Cuba,2017,11484636,0,0,2015,2015.56,None,Confirmed
+Curacao,2015,160539,0,0,2015,2016.85,None,Not analysed
+Curacao,2016,160539,3870,2410.629193,2015.85,2016.85,None,Not analysed
+Curacao,2017,160539,0,0,2015,2016.85,None,Not analysed
+Dominica,2015,73925,0,0,2015,2015,None,Not analysed
+Dominica,2016,73925,0,0,2015,2015,None,Not analysed
+Dominica,2017,73925,0,0,2015,2015,None,Not analysed
+Dominican.Republic,2015,10766998,0,0,2015,2016.35,None,Confirmed and suspected
+Dominican.Republic,2016,10766998,5301,49.233779,2015.35,2016.35,None,Confirmed and suspected
+Dominican.Republic,2017,10766998,0,0,2015,2016.35,None,Confirmed and suspected
+Ecuador,2015,16624858,0,0,2015,2016.46,None,Confirmed and suspected
+Ecuador,2016,16624858,2640,15.87983488,2015.46,2016.46,None,Confirmed and suspected
+Ecuador,2017,16624858,1893,11.38656342,2015.33,2016.46,None,Confirmed and suspected
+El.Salvador,2015,6377853,0,0,2015,2016,None,Suspected
+El.Salvador,2016,6377853,9593,150.411118,2015,2016,None,Suspected
+El.Salvador,2017,6377853,16,0.250868121,2015.06,2016,None,Suspected
+French.Guiana,2015,282731,0,0,2015,2016.31,None,Suspected
+French.Guiana,2016,282731,10154,3591.399599,2015.31,2016.31,None,Suspected
+French.Guiana,2017,282731,269,95.14344023,2015.1,2016.31,None,Suspected
+Grenada,2015,107825,0,0,2015,2016.5,None,Confirmed and suspected
+Grenada,2016,107825,437,405.2863436,2015.5,2016.5,None,Confirmed and suspected
+Grenada,2017,107825,6,5.564572224,2015.15,2016.5,None,Confirmed and suspected
+Guadeloupe,2015,449568,0,0,2015,2016.42,None,Suspected
+Guadeloupe,2016,449568,30901,6873.487437,2015.42,2016.42,None,Suspected
+Guadeloupe,2017,449568,66,14.6807602,2015.02,2016.42,None,Suspected
+Guatemala,2015,16913503,0,0,2015,2016.08,None,Confirmed and suspected
+Guatemala,2016,16913503,3860,22.82200204,2015.08,2016.08,None,Confirmed and suspected
+Guatemala,2017,16913503,166,0.981464337,2015.1,2016.08,None,Confirmed and suspected
+Guyana,2015,777859,0,0,2015,2016.08,None,Confirmed
+Guyana,2016,777859,2170,278.9708675,2015.08,2016.08,None,Confirmed
+Guyana,2017,777859,184,23.65467263,2015.1,2016.08,None,Confirmed
+Haiti,2015,10981229,0,0,2015,2016.06,None,Suspected
+Haiti,2016,10981229,2941,26.78206601,2015.06,2016.06,None,Suspected
+Haiti,2017,10981229,0,0,2015,2016.06,None,Suspected
+Honduras,2015,9265067,0,0,2015,2016.08,None,Confirmed and suspected
+Honduras,2016,9265067,32197,347.5096295,2015.08,2016.08,None,Confirmed and suspected
+Honduras,2017,9265067,171,1.845642347,2015.1,2016.08,None,Confirmed and suspected
+Jamaica,2015,2890299,0,0,2015,2016.42,None,Confirmed and suspected
+Jamaica,2016,2890299,6274,217.0709674,2015.42,2016.42,None,Confirmed and suspected
+Jamaica,2017,2890299,55,1.902917311,2015.1,2016.42,None,Confirmed and suspected
+Martinique,2015,384896,0,0,2015,2016.35,None,Suspected
+Martinique,2016,384896,36502,9483.600765,2015.35,2016.35,None,Suspected
+Martinique,2017,384896,38,9.872796807,2015.02,2016.35,None,Suspected
+Nicaragua,2015,6217581,0,0,2015,2016.58,None,Suspected
+Nicaragua,2016,6217581,4785,76.9591904,2015.58,2016.58,None,Suspected
+Nicaragua,2017,6217581,204,3.281018776,2015.02,2016.58,None,Suspected
+Panama,2015,4098587,0,0,2015,2017.02,None,Confirmed and suspected
+Panama,2016,4098587,3917,95.56952189,2015.94,2017.02,None,Confirmed and suspected
+Panama,2017,4098587,1228,29.96154528,2015.02,2017.02,None,Confirmed and suspected
+Paraguay,2015,6811297,0,0,2015,2016.21,None,Confirmed and suspected
+Paraguay,2016,6811297,334,4.90361821,2015.21,2016.21,None,Confirmed and suspected
+Paraguay,2017,6811297,102,1.497512148,2015.02,2016.21,None,Confirmed and suspected
+Peru,2015,32165485,0,0,2015,2017.25,None,Confirmed and suspected
+Peru,2016,32165485,1807,5.617822955,2015.85,2017.25,None,Confirmed and suspected
+Peru,2017,32165485,6073,18.88048633,2015.25,2017.25,None,Confirmed and suspected
+Puerto.Rico,2015,3663131,0,0,2015,2016.6,None,Confirmed and suspected
+Puerto.Rico,2016,3663131,52417,1430.934356,2015.6,2016.6,None,Confirmed and suspected
+Puerto.Rico,2017,3663131,1333,36.38963499,2015,2016.6,None,Confirmed and suspected
+St..Barthelemy,2015,0,0,0,2015,2016.58,None,Not analysed
+St..Barthelemy,2016,0,991,0,2015.58,2016.58,None,Not analysed
+St..Barthelemy,2017,0,8,0,2015.06,2016.58,None,Not analysed
+St..Kitts.Nevis,2015,55345,0,0,2015,2016.87,None,Not analysed
+St..Kitts.Nevis,2016,55345,582,1051.585509,2015.87,2016.87,None,Not analysed
+St..Kitts.Nevis,2017,55345,0,0,2015.02,2016.87,None,Not analysed
+St..Lucia,2015,0,0,0,2015,2016.83,None,Not analysed
+St..Lucia,2016,0,0,0,2015.83,2016.83,None,Not analysed
+St..Lucia,2017,0,0,0,2015,2016.83,None,Not analysed
+St..Martin.Maarten,2015,25398,0,0,2015,2016.73,None,Not analysed
+St..Martin.Maarten,2016,25398,3215,12658.47705,2015.73,2016.73,None,Not analysed
+St..Martin.Maarten,2017,25398,60,236.2390739,2015,2016.73,None,Not analysed
+St..Vincent.Grenadines,2015,109897,0,0,2015,2016.56,None,Confirmed and suspected
+St..Vincent.Grenadines,2016,109897,565,514.1177648,2015,2016.56,None,Confirmed and suspected
+St..Vincent.Grenadines,2017,109897,0,0,2015,2016.56,None,Confirmed and suspected
+Suriname,2015,563402,0,0,2015,2016,None,Confirmed and suspected
+Suriname,2016,563402,3309,587.3248586,2015.5,2016,None,Confirmed and suspected
+Suriname,2017,563402,18,3.194876837,2015.02,2016,None,Confirmed and suspected
+Trinidad.Tobago,2015,1369125,0,0,2015,2016.6,None,Confirmed
+Trinidad.Tobago,2016,1369125,656,47.91381357,2015.6,2016.6,None,Confirmed
+Trinidad.Tobago,2017,1369125,1,0.07303935,2015,2016.6,None,Confirmed
+Turks.Caicos,2015,35446,0,0,2015,2016.56,None,Not analysed
+Turks.Caicos,2016,35446,197,555.7749817,2015.56,2016.56,None,Not analysed
+Turks.Caicos,2017,35446,1,2.8211928,2015,2016.56,None,Not analysed
+US.Virgin.Islands,2015,104901,0,0,2015,2016.58,None,Suspected
+US.Virgin.Islands,2016,104901,2002,1908.466078,2015,2016.58,None,Suspected
+US.Virgin.Islands,2017,104901,59,56.24350578,2015.17,2016.58,None,Suspected
+Venezuela,2015,31977065,0,0,2015,2016.62,None,Suspected
+Venezuela,2016,31977065,59393,185.7362456,2015.62,2016.62,None,Suspected
+Venezuela,2017,31977065,234,0.731774476,2015,2016.62,None,Suspected
+Brazil,2015,790101,24,3.037586334,2015,2016.27,Acre,Confirmed and suspected
+Brazil,2016,790101,700,88.59626807,2015.81,2016.27,Acre,Confirmed and suspected
+Brazil,2017,790101,191,24.17412457,2015,2016.27,Acre,Confirmed and suspected
+Brazil,2015,3321730,254,7.646617877,2015,2016.2,Alagoas,Confirmed and suspected
+Brazil,2016,3321730,1832,55.15198406,2015.58,2016.2,Alagoas,Confirmed and suspected
+Brazil,2017,3321730,169,5.08771032,2015,2016.2,Alagoas,Confirmed and suspected
+Brazil,2015,750912,11,1.464885366,2015,2016.45,Amapa,Confirmed and suspected
+Brazil,2016,750912,571,76.04086764,2015.06,2016.45,Amapa,Confirmed and suspected
+Brazil,2017,750912,29,3.861970511,2015.06,2016.45,Amapa,Confirmed and suspected
+Brazil,2015,3873743,1,0.025814826,2015.98,2017.04,Amazonas,Confirmed and suspected
+Brazil,2016,3873743,217,5.601817157,2016.95,2017.04,Amazonas,Confirmed and suspected
+Brazil,2017,3873743,180,4.64666861,2017.04,2017.04,Amazonas,Confirmed and suspected
+Brazil,2015,15126371,26,0.171885246,2015.95,2016.14,Bahia,Confirmed and suspected
+Brazil,2016,15126371,383,2.532001893,2016.14,2016.14,Bahia,Confirmed and suspected
+Brazil,2017,15126371,50,0.33054855,2017.12,2016.14,Bahia,Confirmed and suspected
+Brazil,2015,8842791,90,1.017778211,2015.96,2017.31,Ceara,Confirmed and suspected
+Brazil,2016,8842791,6463,73.08778416,2016.31,2017.31,Ceara,Confirmed and suspected
+Brazil,2017,8842791,6150,69.54817772,2017.31,2017.31,Ceara,Confirmed and suspected
+Brazil,2015,2852372,0,0,0,2016.33,Distrito Federal,Confirmed and suspected
+Brazil,2016,2852372,7,0.245409785,2016.33,2016.33,Distrito Federal,Confirmed and suspected
+Brazil,2017,2852372,5,0.175292704,2017.37,2016.33,Distrito Federal,Confirmed and suspected
+Brazil,2015,3885049,239,6.151788562,2015.96,2016.14,Espirito Santo,Confirmed and suspected
+Brazil,2016,3885049,1539,39.61339999,2016.14,2016.14,Espirito Santo,Confirmed and suspected
+Brazil,2017,3885049,512,13.17872696,2017.21,2016.14,Espirito Santo,Confirmed and suspected
+Brazil,2015,6523222,87,1.333696753,2015.95,2016.27,Goias,Confirmed and suspected
+Brazil,2016,6523222,3651,55.96927408,2016.27,2016.27,Goias,Confirmed and suspected
+Brazil,2017,6523222,2030,31.1195909,2017.45,2016.27,Goias,Confirmed and suspected
+Brazil,2015,6850884,50,0.729832822,2015.93,2016.21,Maranhao,Confirmed and suspected
+Brazil,2016,6850884,1770,25.83608188,2016.21,2016.21,Maranhao,Confirmed and suspected
+Brazil,2017,6850884,227,3.31344101,2017.06,2016.21,Maranhao,Confirmed and suspected
+Brazil,2015,3224357,425,13.18092258,2015.95,2016.18,Mato Grosso,Confirmed and suspected
+Brazil,2016,3224357,2588,80.26406505,2016.18,2016.18,Mato Grosso,Confirmed and suspected
+Brazil,2017,3224357,591,18.32923588,2017.18,2016.18,Mato Grosso,Confirmed and suspected
+Brazil,2015,2619657,203,7.749106085,2015.93,2016.12,Mato Grosso Do Sul,Confirmed and suspected
+Brazil,2016,2619657,6740,257.2855912,2016.12,2016.12,Mato Grosso Do Sul,Confirmed and suspected
+Brazil,2017,2619657,681,25.99576968,2017.1,2016.12,Mato Grosso Do Sul,Confirmed and suspected
+Brazil,2015,20734097,425,2.04976373,2015.95,2016.18,Minas Gerais,Confirmed and suspected
+Brazil,2016,20734097,12149,58.59430483,2016.18,2016.18,Minas Gerais,Confirmed and suspected
+Brazil,2017,20734097,2007,9.679707778,2017.2,2016.18,Minas Gerais,Confirmed and suspected
+Brazil,2015,8073924,968,11.98921367,2015.91,2016.08,Para,Confirmed and suspected
+Brazil,2016,8073924,6329,78.38815426,2016.08,2016.08,Para,Confirmed and suspected
+Brazil,2017,8073924,1203,14.89981823,2017.08,2016.08,Para,Confirmed and suspected
+Brazil,2015,3943885,49,1.242429736,2015.95,2016.45,Paraiba,Confirmed and suspected
+Brazil,2016,3943885,2263,57.37996924,2016.45,2016.45,Paraiba,Confirmed and suspected
+Brazil,2017,3943885,227,5.755745921,2017.43,2016.45,Paraiba,Confirmed and suspected
+Brazil,2015,11081692,59,0.532409672,2015.95,2016.25,Parana,Confirmed and suspected
+Brazil,2016,11081692,2229,20.11425692,2016.25,2016.25,Parana,Confirmed and suspected
+Brazil,2017,11081692,474,4.277325159,2017.37,2016.25,Parana,Confirmed and suspected
+Brazil,2015,9277727,451,4.861104449,2015.96,2016.14,Pernambuco,Confirmed and suspected
+Brazil,2016,9277727,9477,102.1478644,2016.14,2016.14,Pernambuco,Confirmed and suspected
+Brazil,2017,9277727,218,2.349713459,2017.37,2016.14,Pernambuco,Confirmed and suspected
+Brazil,2015,3194718,24,0.751240016,2015.91,2017.39,Piau,Confirmed and suspected
+Brazil,2016,3194718,793,24.82222218,2016.31,2017.39,Piau,Confirmed and suspected
+Brazil,2017,3194718,883,27.63937224,2017.39,2017.39,Piau,Confirmed and suspected
+Brazil,2015,16461173,2260,13.72927677,2015.96,2016,Rio De Janeiro,Confirmed and suspected
+Brazil,2016,16461173,14510,88.14681675,2016,2016,Rio De Janeiro,Confirmed and suspected
+Brazil,2017,16461173,967,5.874429483,2017.43,2016,Rio De Janeiro,Confirmed and suspected
+Brazil,2015,3408510,103,3.021848256,2015.95,2016.14,Rio Grande Do Norte,Confirmed and suspected
+Brazil,2016,3408510,1424,41.7777856,2016.14,2016.14,Rio Grande Do Norte,Confirmed and suspected
+Brazil,2017,3408510,235,6.894508158,2017.46,2016.14,Rio Grande Do Norte,Confirmed and suspected
+Brazil,2015,11207274,9,0.080304988,2015.93,2016.25,Rio Grande Do Sul,Confirmed and suspected
+Brazil,2016,11207274,489,4.363237662,2016.25,2016.25,Rio Grande Do Sul,Confirmed and suspected
+Brazil,2017,11207274,95,0.847663758,2017.39,2016.25,Rio Grande Do Sul,Confirmed and suspected
+Brazil,2015,1748531,5,0.285954324,2015.85,2016.18,Rondania,Confirmed and suspected
+Brazil,2016,1748531,1357,77.60800352,2016.18,2016.18,Rondania,Confirmed and suspected
+Brazil,2017,1748531,542,30.99744872,2017.25,2016.18,Rondania,Confirmed and suspected
+Brazil,2015,496936,17,3.420963665,2015.56,2017.39,Roraima,Confirmed and suspected
+Brazil,2016,496936,149,29.98374036,2016.56,2017.39,Roraima,Confirmed and suspected
+Brazil,2017,496936,303,60.97364651,2017.39,2017.39,Roraima,Confirmed and suspected
+Brazil,2015,6727148,2,0.029730281,2015.98,2016.14,Santa Catarina,Confirmed and suspected
+Brazil,2016,6727148,91,1.352727783,2016.14,2016.14,Santa Catarina,Confirmed and suspected
+Brazil,2017,6727148,70,1.040559833,2017.39,2016.14,Santa Catarina,Confirmed and suspected
+Brazil,2015,44035304,65,0.147608837,2015.98,2016.16,Sao Paulo,Confirmed and suspected
+Brazil,2016,44035304,6919,15.71239295,2016.16,2016.16,Sao Paulo,Confirmed and suspected
+Brazil,2017,44035304,1642,3.728826307,2017.41,2016.16,Sao Paulo,Confirmed and suspected
+Brazil,2015,2219574,34,1.531825476,2015.95,2016.12,Sergipe,Confirmed and suspected
+Brazil,2016,2219574,950,42.80100596,2016.12,2016.12,Sergipe,Confirmed and suspected
+Brazil,2017,2219574,77,3.469134167,2017.29,2016.12,Sergipe,Confirmed and suspected
+Brazil,2015,1496880,214,14.29640319,2015.96,2016.14,Tocantins,Confirmed and suspected
+Brazil,2016,1496880,1138,76.02479825,2016.14,2016.14,Tocantins,Confirmed and suspected
+Brazil,2017,1496880,572,38.21281599,2017.27,2016.14,Tocantins,Confirmed and suspected
+Mexico,2015,1312544,0,0,0,2016.865385,Aguascalientes,Confirmed and suspected
+Mexico,2016,1312544,4,0.304751688,2016.865385,2016.865385,Aguascalientes,Confirmed and suspected
+Mexico,2017,1312544,0,0,0,2016.865385,Aguascalientes,Confirmed and suspected
+Mexico,2015,3315766,0,0,0,2017.057692,Baja_California,Confirmed and suspected
+Mexico,2016,3315766,0,0,0,2017.288462,Baja_California,Confirmed and suspected
+Mexico,2017,3315766,3,0.090476831,2017.057692,2017.403846,Baja_California,Confirmed and suspected
+Mexico,2015,712029,0,0,0,2016.807692,Baja_California_Sur,Confirmed and suspected
+Mexico,2016,712029,21,2.949318076,2016.807692,2016.807692,Baja_California_Sur,Confirmed and suspected
+Mexico,2017,712029,2,0.280887436,2017.653846,2016.807692,Baja_California_Sur,Confirmed and suspected
+Mexico,2015,899931,0,0,0,2016.769231,Campeche,Confirmed and suspected
+Mexico,2016,899931,86,9.556288204,2016.769231,2016.769231,Campeche,Confirmed and suspected
+Mexico,2017,899931,1,0.11111963,2017.480769,2016.769231,Campeche,Confirmed and suspected
+Mexico,2015,5217908,10,0.191647687,2015.980769,2016.75,Chiapas,Confirmed and suspected
+Mexico,2016,5217908,759,14.54605946,2016.75,2016.75,Chiapas,Confirmed and suspected
+Mexico,2017,5217908,5,0.095823844,2017.538462,2016.75,Chiapas,Confirmed and suspected
+Mexico,2015,3556574,0,0,0,0,Chihuahua,Confirmed and suspected
+Mexico,2016,3556574,0,0,0,0,Chihuahua,Confirmed and suspected
+Mexico,2017,3556574,0,0,0,0,Chihuahua,Confirmed and suspected
+Mexico,2015,2954915,0,0,0,2016.826923,Coahuila_de_Zaragoza,Confirmed and suspected
+Mexico,2016,2954915,61,2.064357181,2016.826923,2016.826923,Coahuila_de_Zaragoza,Confirmed and suspected
+Mexico,2017,2954915,16,0.541470736,2017.673077,2016.826923,Coahuila_de_Zaragoza,Confirmed and suspected
+Mexico,2015,711235,0,0,0,2016.653846,Colima,Confirmed and suspected
+Mexico,2016,711235,277,38.94633982,2016.653846,2016.653846,Colima,Confirmed and suspected
+Mexico,2017,711235,0,0,0,2016.653846,Colima,Confirmed and suspected
+Mexico,2015,16187608,0,0,0,0,Distrito_Federal,Confirmed and suspected
+Mexico,2016,16187608,0,0,0,0,Distrito_Federal,Confirmed and suspected
+Mexico,2017,16187608,0,0,0,0,Distrito_Federal,Confirmed and suspected
+Mexico,2015,1754754,0,0,0,0,Durango,Confirmed and suspected
+Mexico,2016,1754754,0,0,0,0,Durango,Confirmed and suspected
+Mexico,2017,1754754,0,0,0,0,Durango,Confirmed and suspected
+Mexico,2015,5853677,0,0,0,0,Guanajuato,Confirmed and suspected
+Mexico,2016,5853677,0,0,0,0,Guanajuato,Confirmed and suspected
+Mexico,2017,5853677,0,0,0,0,Guanajuato,Confirmed and suspected
+Mexico,2015,3533251,0,0,0,2016.596154,Guerrero,Confirmed and suspected
+Mexico,2016,3533251,801,22.67033958,2016.596154,2016.596154,Guerrero,Confirmed and suspected
+Mexico,2017,3533251,17,0.481143287,2017.230769,2016.596154,Guerrero,Confirmed and suspected
+Mexico,2015,2858359,0,0,0,2016.75,Hidalgo,Confirmed and suspected
+Mexico,2016,2858359,190,6.647170632,2016.75,2016.75,Hidalgo,Confirmed and suspected
+Mexico,2017,2858359,45,1.574329886,2017.519231,2016.75,Hidalgo,Confirmed and suspected
+Mexico,2015,7844830,1,0.012747249,2015.980769,2016.769231,Jalisco,Confirmed and suspected
+Mexico,2016,7844830,81,1.032527155,2016.769231,2016.769231,Jalisco,Confirmed and suspected
+Mexico,2017,7844830,80,1.019779906,2017.653846,2016.769231,Jalisco,Confirmed and suspected
+Mexico,2015,16187608,0,0,0,2017.519231,Mexico,Confirmed and suspected
+Mexico,2016,16187608,0,0,0,2017.519231,Mexico,Confirmed and suspected
+Mexico,2017,16187608,12,0.07413078,2017.519231,2017.519231,Mexico,Confirmed and suspected
+Mexico,2015,4584471,0,0,0,2016.711538,Michoacan_de_Ocampo,Confirmed and suspected
+Mexico,2016,4584471,61,1.330578817,2016.711538,2016.711538,Michoacan_de_Ocampo,Confirmed and suspected
+Mexico,2017,4584471,4,0.08725107,2017.461538,2016.711538,Michoacan_de_Ocampo,Confirmed and suspected
+Mexico,2015,1903811,0,0,0,2016.75,Morelos,Confirmed and suspected
+Mexico,2016,1903811,269,14.12955383,2016.75,2016.75,Morelos,Confirmed and suspected
+Mexico,2017,1903811,138,7.248618692,2017.615385,2016.75,Morelos,Confirmed and suspected
+Mexico,2015,1181050,0,0,0,2017.673077,Nayarit,Confirmed and suspected
+Mexico,2016,1181050,39,3.302146395,2016.692308,2017.673077,Nayarit,Confirmed and suspected
+Mexico,2017,1181050,231,19.55886711,2017.673077,2017.673077,Nayarit,Confirmed and suspected
+Mexico,2015,5119504,4,0.078132569,2015.980769,2016.923077,Nuevo_Leon,Confirmed and suspected
+Mexico,2016,5119504,781,15.25538412,2016.923077,2016.923077,Nuevo_Leon,Confirmed and suspected
+Mexico,2017,5119504,39,0.761792549,2017.615385,2016.923077,Nuevo_Leon,Confirmed and suspected
+Mexico,2015,3967889,0,0,0,2016.653846,Oaxaca,Confirmed and suspected
+Mexico,2016,3967889,488,12.29873114,2016.653846,2016.653846,Oaxaca,Confirmed and suspected
+Mexico,2017,3967889,4,0.100809272,2017.403846,2016.653846,Oaxaca,Confirmed and suspected
+Mexico,2015,6168883,0,0,0,2016.807692,Puebla,Confirmed and suspected
+Mexico,2016,6168883,93,1.507566281,2016.807692,2016.807692,Puebla,Confirmed and suspected
+Mexico,2017,6168883,79,1.280620819,2017.519231,2016.807692,Puebla,Confirmed and suspected
+Mexico,2015,2038372,0,0,0,2017.673077,Queretaro_de_Arteaga,Confirmed and suspected
+Mexico,2016,2038372,0,0,0,2017.673077,Queretaro_de_Arteaga,Confirmed and suspected
+Mexico,2017,2038372,12,0.588705104,2017.673077,2017.673077,Queretaro_de_Arteaga,Confirmed and suspected
+Mexico,2015,1501562,0,0,0,2016.673077,Quintana_Roo,Confirmed and suspected
+Mexico,2016,1501562,363,24.17482595,2016.673077,2016.673077,Quintana_Roo,Confirmed and suspected
+Mexico,2017,1501562,6,0.3995839,2017.019231,2016.673077,Quintana_Roo,Confirmed and suspected
+Mexico,2015,2717820,0,0,0,2017.653846,San_Luis_Potosi,Confirmed and suspected
+Mexico,2016,2717820,31,1.140620056,2016.788462,2017.653846,San_Luis_Potosi,Confirmed and suspected
+Mexico,2017,2717820,206,7.579604242,2017.653846,2017.653846,San_Luis_Potosi,Confirmed and suspected
+Mexico,2015,2966321,0,0,0,2016.865385,Sinaloa,Confirmed and suspected
+Mexico,2016,2966321,57,1.92157221,2016.865385,2016.865385,Sinaloa,Confirmed and suspected
+Mexico,2017,2966321,8,0.269694345,2017.019231,2016.865385,Sinaloa,Confirmed and suspected
+Mexico,2015,2850330,0,0,0,2016.730769,Sonora,Confirmed and suspected
+Mexico,2016,2850330,24,0.842007768,2016.730769,2016.730769,Sonora,Confirmed and suspected
+Mexico,2017,2850330,5,0.175418285,2017.634615,2016.730769,Sonora,Confirmed and suspected
+Mexico,2015,2395272,0,0,0,2016.730769,Tabasco,Confirmed and suspected
+Mexico,2016,2395272,305,12.73341817,2016.730769,2016.730769,Tabasco,Confirmed and suspected
+Mexico,2017,2395272,10,0.41748912,2017.076923,2016.730769,Tabasco,Confirmed and suspected
+Mexico,2015,3441698,0,0,0,2017.634615,Tamaulipas,Confirmed and suspected
+Mexico,2016,3441698,97,2.818376278,2016.75,2017.634615,Tamaulipas,Confirmed and suspected
+Mexico,2017,3441698,316,9.181514473,2017.634615,2017.634615,Tamaulipas,Confirmed and suspected
+Mexico,2015,1272847,0,0,0,0,Tlaxcala,Confirmed and suspected
+Mexico,2016,1272847,0,0,0,0,Tlaxcala,Confirmed and suspected
+Mexico,2017,1272847,0,0,0,0,Tlaxcala,Confirmed and suspected
+Mexico,2015,8112505,0,0,0,2016.711538,Veracruz_de_Ignacio_de_la_Llave,Confirmed and suspected
+Mexico,2016,8112505,1856,22.87826017,2016.711538,2016.711538,Veracruz_de_Ignacio_de_la_Llave,Confirmed and suspected
+Mexico,2017,8112505,28,0.345146166,2017.461538,2016.711538,Veracruz_de_Ignacio_de_la_Llave,Confirmed and suspected
+Mexico,2015,2097175,0,0,0,2016.788462,Yucatan,Confirmed and suspected
+Mexico,2016,2097175,823,39.24326773,2016.788462,2016.788462,Yucatan,Confirmed and suspected
+Mexico,2017,2097175,15,0.715247893,2017.576923,2016.788462,Yucatan,Confirmed and suspected
+Mexico,2015,1579209,0,0,0,2016.807692,Zacatecas,Confirmed and suspected
+Mexico,2016,1579209,1,0.063322841,2016.807692,2016.807692,Zacatecas,Confirmed and suspected
+Mexico,2017,1579209,0,0,0,2016.807692,Zacatecas,Confirmed and suspected

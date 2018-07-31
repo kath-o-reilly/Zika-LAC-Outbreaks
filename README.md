@@ -3,7 +3,7 @@ Material (data and model output) to share with colleagues, and code used in anal
 
 There are several folders;
 ## Code 
-The code used for the modelling of ZIKV transmission. The matlab code is used for the parameter estimation and the R code is used to output the analysis
+The code used for the modelling of ZIKV transmission. The matlab code is used for the parameter estimation and the R code is used to output the analysis. The full number of files used aren't provided bt it should be possible to repeat the parameter estimation. 
 ## Data 
 Several (largely .csv) files of the data used in the analysis
 ## CountryReports 

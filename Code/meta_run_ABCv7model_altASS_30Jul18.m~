@@ -12,7 +12,7 @@ season = readtable('/Users/kathleen/Documents/GitHub/Zika-LAC-Outbreaks/Data/dat
 gmat = readtable('/Users/kathleen/Documents/GitHub/Zika-LAC-Outbreaks/Data/distmat_Nov17.csv','FileEncoding','UTF-8');
 rmat  = readtable('/Users/kathleen/Documents/GitHub/Zika-LAC-Outbreaks/Data/rad_matrix_24Nov17.csv','FileEncoding','UTF-8');
 % <data not included> fmatavg = readtable('/Users/kathleen/Dropbox (VERG)/Dropbox/Zika/ZikaData/Outputs/flights_avg_24Nov17.csv','FileEncoding','UTF-8');
-fmatavg = rmat;
+fmatabg
 intro = readtable('/Users/kathleen/Documents/GitHub/Zika-LAC-Outbreaks/Data/country_onset_2Oct2017.csv','FileEncoding','UTF-8');
 incid = readtable('/Users/kathleen/Documents/GitHub/Zika-LAC-Outbreaks/Data/all_countries_incidence_18Feb18.csv','FileEncoding','UTF-8');  % I don't think this needed updating for GLP, etc
  
@@ -121,8 +121,8 @@ Out_paramsP = zeros(Iter,3);
 % run through the loops - note we're using parfor to make use of the cores
 % parallel computing toolbox required!!!
 
-parfor mm = 1:3
-%for mm = 1
+%parfor mm = 1:3
+for mm = 1
     Out_incidwL = zeros(Iter,1);
     Out_peak_everwL = zeros(Iter,1);
     % make all sims grav-exp
@@ -213,7 +213,7 @@ Out_total = Out_paramsI + Out_paramsP;
 % % how well did the sims do?
 % % from these we need to decide which particles to hold onto....
 % 
-% Distance = [115 ];  %  first 100 sims suggest that values <115 look like they are worth following 
+% Distance = [115 170 150];  %  first 100 sims suggest that values <200 look like they are worth following 
 % 
 % p_mod = zeros(1,5);
 % Store1keep = zeros(Iter*4,11+3);
@@ -244,7 +244,6 @@ Out_total = Out_paramsI + Out_paramsP;
 % ------------- SECTION 2 --------------------------
 % take these parameter sets and run into 2018 - how many cases are we
 % expecting?
-% ----------------------------------------------------
 
 % years = 5;
 % MaxTime=365*years;
@@ -281,7 +280,7 @@ Out_total = Out_paramsI + Out_paramsP;
 %     % SECTION 5 - run the model
 %     % so we need to specifically stop the model at initiation and then
 %     % re-start, (having a if statement isn't good enough)
-%     [t, pop]=ode45(@Diff_7_1_SEIRtincid_introv7,[0 : 1 : start],All,options,n, beta_cityt, gamma, alpha, mu, l2, r2, c_ones, r_ones);
+%     [t, pop]=ode45(@Diff_7_1_SEIRtincid_introv7B,[0 : 1 : start],All,options,n, beta_cityt, gamma, alpha, mu, l2, r2, c_ones, r_ones);
 %     % store model output
 %     t_out = t(1:end-1);
 %     pop_out = pop(1:end-1,:);
@@ -290,7 +289,7 @@ Out_total = Out_paramsI + Out_paramsP;
 %     index_Y = diag(reshape(2*(n*n)+[1:(n*n)],n,n));
 %     index_I = diag(reshape(4*(n*n)+[1:(n*n)],n,n));
 %     pop_out(end,index_Y) = Ystart;
-%     [t, pop]=ode45(@Diff_7_1_SEIRtincid_introv7,[0 : 1 : MaxTime-start],pop_out(end,:),options,n, beta_cityt, gamma, alpha, mu, l2, r2, c_ones, r_ones);
+%     [t, pop]=ode45(@Diff_7_1_SEIRtincid_introv7B,[0 : 1 : MaxTime-start],pop_out(end,:),options,n, beta_cityt, gamma, alpha, mu, l2, r2, c_ones, r_ones);
 %     t_out = [t_out ; t+start ];
 %     pop_out = [ pop_out ; pop];
 % 
